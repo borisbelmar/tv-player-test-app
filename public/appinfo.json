@@ -1,0 +1,14 @@
+{
+  "id": "com.mstream.test",
+  "version": "0.0.1",
+  "vendor": "Mediastream",
+  "type": "web",
+  "main": "index.html",
+  "title": "TV Player Test",
+  "iconColor": "#1A1A1A",
+  "icon": "lg-small-icon.png",
+  "largeIcon": "lg-large-icon.png",
+  "splashScreen": "lg-splashscreen.png",
+  "appDescription": "App de prueba para player Tizen y WebOS",
+  "disableBackHistoryAPI": true
+}
